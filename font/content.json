@@ -1,10 +1,10 @@
 {
-    "to": "亲爱的含含",
-    "from": "失去姓名的友人A",
-    "recipient": "A",
-    "sender": "海绵宝宝永远的挚友，喜羊羊一生之敌，熊大头号迷妹之含含殿下",
-    "title": "给含含的一封信",
+    "to": "Dear xiaoxiao",
+    "from": "某部门HR",
+    "recipient": "hanxiao kong",
+    "sender": "不知姓名的某小Boss",
+    "title": "The offer to you",
     "stamp": "./img/stamp.png",
     "bgm": "./bgm/bgm.mp3",
-    "text": "螃蟹在剥我的壳^200<br>笔记本在写我^200<br>漫天的我落在枫叶上雪花上,而你在想我^200。"
+    "text": "亲爱的笑笑同学，恭喜你通过了本司秋招录用流程^200<br>请与xx年xx月xx日前到xx地报道^200<br>请携带两寸免冠证件照，身份证复印件届时登记^200<br>衷心祝愿您加入本司，望以后合作愉快^200<br>"
 }
